@@ -1,54 +1,48 @@
-[![](https://ituacm.com/wp-content/uploads/2017/12/fb-tes-720p-1024x576.png)](https://ituacm.com/wp-content/uploads/2017/12/fb-tes-720p-1024x576.png)
+# Python Introduction Course 2020
 
-### Instructors
+## Prerequisities
+1. Ubuntu Terminal & Atom Text Editor (Ubuntu and Atom can be downloaded by following the instructions from [Environment Setup](/EnvironmentSetup.pdf) file)
+2. Curiosity about programming
+3. Being exciting to learn C
+4. Zoom account
 
-**Your Name and Surname**
+## Goal
+The goal of that course is give some basic informations about C Programming that you can improve yourself after course. This course aims to make you ready to learn complicated things in programming.
 
-*Computer Engineering #4 @I.T.U*
+## Lecture Day and Time
+Every Wednesday, [ 18:00 - 19:30 ] (Online)
 
-[*LinkedIn*](https://www.linkedin.com/in/)
+## Syllabus
 
-**Your Name and Surname**
-
-*Computer Engineering #3 @I.T.U*
-
-[*LinkedIn*](https://www.linkedin.com/in/)
-
-
-### Prerequisities
-1. Basic knowledge about any programming language.
-2. so on...
-
-### Goal
-
-goals about program...
-
-### Syllabus
-
-|  #Date |  #Topic  | #Description  |
+|  # | **Content**  |  **Instructor**  |
 | :------------: | :------------: | :------------: |
-| 1 September 2019 | Basit javascript, React Native kurulumu ve react native eğitimi. | React Native kurulumunda yardım, basit seviyede ES6, ES7 anlatımı, React Native tarihçesi, çalışma prensibi ve basit giriş |
-| 1 September 2019  | React Native egitimine devam.  | React Native projelerinin genel hiyerarşisi, Componentler ve Kütüphaneler  |
-| 1 September 2019  |  Exchange Rate App baslangic.  | Projeye başlangıç. Kullanışlı Componentler ve API çağırmaları hakkında genel bilgiler  |
-| 1 September 2019  |  Exchange Rate App e navigation ekleme.  | React Navigation kütüphanesi hakkında genel bilgiler  |
-| 1 September 2019  |Exchange Rate App design.  | Component tasarımı hakkında genel bilgiler  |
-| 1 September 2019  |  React ve Flutter hakkinda kisa bilgiler. |  Play Store'a uygulama deploylama, Frontend için kullanılan React ve başka bir Cross-Platform olan Flutter hakkınfa kısa bilgiler |
+| Week 1 | Output, Variables & Constants, Data Types, Input, Arithmetic & Assignment Operators, Fundamental Libraries, Standard Functions | Mihriban Nur Koçak |
+| Week 2 | Decision Statements(if-else if-else), Relational & Logical Operators, Booleans, Loops(for, while),  break-continue, Randomizing  | Mehmet Yiğit Balık |
+| Week 3 | Function Types, Global/Local/Macro, User Defined Functions, Introduction to Arrays, Arrays & Functions   | Mihriban Nur Koçak |
+| Week 4 | 2D Arrays, 2D Arrays & Functions, Fundamental Algorithms(Max-Min Finding & Sorting) | Mehmet Yiğit Balık |
+| Week 5 | Pointers, Pointers & Arrays | Mihriban Nur Koçak |
+| Week 6 | Strings, Pointers & Functions | Mehmet Yiğit Balık |
+| Week 7 | Dynamic Memory Allocation, Structs | Mihriban Nur Koçak |
+| Week 8 | File Operations | Mehmet Yiğit Balık |
+
+## Instructors @I.T.U
+| **Name and Surname** | **Social Media** |
+| :------------: | :------------: | 
+| Mehmet Yiğit Balık | [*LinkedIn*](https://www.linkedin.com/in/yigitbalik/) |
+| Mihriban Nur Koçak | [*LinkedIn*](https://www.linkedin.com/in/mihribannurkocak/) |
+
+## Assistants @I.T.U
+| **Name and Surname** | **Social Media** |
+| :------------: | :------------: | 
+| Emir Oğuz | - |
 
 
-<p align="center"><b>Lessons will be around 1:30 - 2 hours</b></p>
+## Suggested Readings
+First lesson will be held on 28 October 2020. Before the first lesson participants should read the Environment Setup instructions.
 
-(Lectures will be in ITU Faculty of Chemical and Metallurgical Engineering classroom D205 at every Thursday 17.30)
 
 # Important Links
-
-You can add links here about your program...
-
-# Suggested Readings
-
-You can add readings here about your program...
-
-# Project
-Short project details. For more information visit the [Project file](/Project)
+[Environment Setup Instructions](/EnvironmentSetup.pdf).
 
 
 <p align="center">
