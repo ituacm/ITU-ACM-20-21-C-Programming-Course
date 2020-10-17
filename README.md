@@ -34,7 +34,7 @@ Every Wednesday, [ 18:00 - 19:30 ] (Online)
 ## Assistants @I.T.U
 | **Name and Surname** | **Social Media** |
 | :------------: | :------------: | 
-| Emir Oğuz | - |
+| Emir Oğuz | [*LinkedIn*](https://www.linkedin.com/in/emir-o%C4%9Fuz-4210621ba/) |
 
 
 ## Suggested Readings
