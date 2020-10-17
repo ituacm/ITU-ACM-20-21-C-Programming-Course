@@ -1,4 +1,4 @@
-# Python Introduction Course 2020
+# C Introduction Course 2020
 
 ## Prerequisities
 1. Ubuntu Terminal & Atom Text Editor (Ubuntu and Atom can be downloaded by following the instructions from [Environment Setup](/EnvironmentSetup.pdf) file)
