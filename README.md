@@ -28,13 +28,13 @@ Every Wednesday, [ 18:00 - 19:30 ] (Online)
 ## Instructors @I.T.U
 | **Name and Surname** | **Social Media** |
 | :------------: | :------------: | 
-| Mehmet Yiğit Balık | [*LinkedIn*](https://www.linkedin.com/in/yigitbalik/) |
-| Mihriban Nur Koçak | [*LinkedIn*](https://www.linkedin.com/in/mihribannurkocak/) |
+| Mehmet Yiğit Balık #2 | [*LinkedIn*](https://www.linkedin.com/in/yigitbalik/) |
+| Mihriban Nur Koçak #2 | [*LinkedIn*](https://www.linkedin.com/in/mihribannurkocak/) |
 
 ## Assistants @I.T.U
 | **Name and Surname** | **Social Media** |
 | :------------: | :------------: | 
-| Emir Oğuz | [*LinkedIn*](https://www.linkedin.com/in/emir-o%C4%9Fuz-4210621ba/) |
+| Emir Oğuz #2 | [*LinkedIn*](https://www.linkedin.com/in/emir-o%C4%9Fuz-4210621ba/) |
 
 
 ## Suggested Readings
