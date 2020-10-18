@@ -1,4 +1,4 @@
-# C Introduction Course 2020
+# ITU-ACM-20-21-C-Programming-Course
 
 ## Prerequisities
 1. Ubuntu Terminal & Atom Text Editor (Ubuntu and Atom can be downloaded by following the instructions from [Environment Setup](/EnvironmentSetup.pdf) file)
